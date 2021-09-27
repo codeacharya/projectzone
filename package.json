@@ -1,5 +1,6 @@
 {
   "name": "testzone",
+  "homepage": "https://codeacharya.github.io/projectzone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
