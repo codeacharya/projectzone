@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projectzone/static/css/main.2d8b6d80.chunk.css",
+    "main.js": "/projectzone/static/js/main.a5c4f89a.chunk.js",
+    "main.js.map": "/projectzone/static/js/main.a5c4f89a.chunk.js.map",
+    "runtime-main.js": "/projectzone/static/js/runtime-main.c78ecb02.js",
+    "runtime-main.js.map": "/projectzone/static/js/runtime-main.c78ecb02.js.map",
+    "static/js/2.349a2a01.chunk.js": "/projectzone/static/js/2.349a2a01.chunk.js",
+    "static/js/2.349a2a01.chunk.js.map": "/projectzone/static/js/2.349a2a01.chunk.js.map",
+    "static/js/3.dca70ba0.chunk.js": "/projectzone/static/js/3.dca70ba0.chunk.js",
+    "static/js/3.dca70ba0.chunk.js.map": "/projectzone/static/js/3.dca70ba0.chunk.js.map",
+    "index.html": "/projectzone/index.html",
+    "static/css/main.2d8b6d80.chunk.css.map": "/projectzone/static/css/main.2d8b6d80.chunk.css.map",
+    "static/js/2.349a2a01.chunk.js.LICENSE.txt": "/projectzone/static/js/2.349a2a01.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/projectzone/static/media/background_image.64060a65.jpg",
+    "static/media/char_count_project_pic.def86d8b.jpg": "/projectzone/static/media/char_count_project_pic.def86d8b.jpg",
+    "static/media/notemaking card_image.762a7b53.jpg": "/projectzone/static/media/notemaking card_image.762a7b53.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c78ecb02.js",
+    "static/js/2.349a2a01.chunk.js",
+    "static/css/main.2d8b6d80.chunk.css",
+    "static/js/main.a5c4f89a.chunk.js"
+  ]
+}
